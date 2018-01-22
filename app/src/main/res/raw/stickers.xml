@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <sticker
+        name="Sticker1"
+        description="Test Sticker 1"
+        url="https://firebasestorage.googleapis.com/v0/b/stickertest-90f71.appspot.com/o/sticker01.png?alt=media&amp;token=1ec17147-ee61-42f7-9dfe-d0274020993a"
+        keywords="test, sticker, nick"/>
+</resources>
